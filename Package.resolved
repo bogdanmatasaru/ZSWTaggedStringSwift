@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "zswtaggedstringobjc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bogdanmatasaru/ZSWTaggedStringOBJC",
+      "state" : {
+        "branch" : "main",
+        "revision" : "07afa69c121cecb1eed17567e986d8fc3abdd5db"
+      }
+    }
+  ],
+  "version" : 2
+}
